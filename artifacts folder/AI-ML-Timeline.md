@@ -45,5 +45,16 @@ The process of creating this artifact enhanced my ability to present technical i
 ---
 
 ## References 📚
-- AI and ML History, Encyclopedia of Technology 📖
-- GitHub Pages Documentation 📑
+
+### 📖 Foundational Textbooks
+- Russell, S. J., & Norvig, P. (2020). *Artificial Intelligence: A Modern Approach* (4th ed.). Pearson. (The definitive text for understanding the history and agent-based view of AI)  
+- Goodfellow, I., Bengio, Y., & Courville, A. (2016). *Deep Learning*. MIT Press. (Foundational resource for modern neural network history and architecture)
+
+### 📄 Landmark Research Papers
+- Turing, A. M. (1950). *Computing Machinery and Intelligence*. Mind, 59(236), 433–460. (The introduction of the "Turing Test")  
+- Rosenblatt, F. (1958). *The Perceptron: A Probabilistic Model for Information Storage and Organization in the Brain*. Psychological Review, 65(6), 386–408. (The birth of neural networks)  
+- Vaswani, A., et al. (2017). *Attention is All You Need*. Advances in Neural Information Processing Systems. (The "Transformer" paper that led to modern LLMs like ChatGPT)
+
+### 🌐 Professional Documentation
+- GitHub Docs. (2026). *About GitHub Pages and Jekyll*. [https://docs.github.com](https://docs.github.com)  
+- Canva Design School. (2026). *Visual Communication and Data Visualization Best Practices*. [https://www.canva.com/learn](https://www.canva.com/learn)  
