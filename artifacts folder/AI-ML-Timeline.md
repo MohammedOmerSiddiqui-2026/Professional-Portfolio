@@ -3,6 +3,10 @@
 ## Introduction 🌟
 This artifact showcases the development of AI and Machine Learning technologies, highlighting key milestones and breakthroughs. 🚀
 
+<p align="center">
+  <img src="evolution-of-ai-ml-1950-to-2025.png" alt="Visual Map of ML Algorithms" width="1000"/>
+</p>
+
 ## Artifact Description 📜
 
 ### Objective 🎯:
